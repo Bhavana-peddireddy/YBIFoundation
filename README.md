@@ -1,5 +1,6 @@
-# YBIFoundation
+YBI Foundation Internship
 I had developed a Bank Customer Churn model with help of dataset in Kaggle
+
 Dataset link:- https://github.com/YBI-Foundation/Dataset/raw/main/Bank%20Churn%20Modelling.csv
 
 This project is related to Bank customer churn Model which covers
